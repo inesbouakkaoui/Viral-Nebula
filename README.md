@@ -87,6 +87,13 @@ You must:
 
 ---
 
+## 📁 Project Files
+
+You can download the full Unity project [here]().  
+*(Includes all C# scripts, scenes, prefabs, and UI assets. No 3D models or audio files are redistributed.)*
+
+---
+
 ## 👩‍💻 Developer
 
 Project by **Inès Bouakkaoui**  
