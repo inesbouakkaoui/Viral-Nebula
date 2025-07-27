@@ -1,6 +1,7 @@
 # 🧬 Viral Nebula
 
 **Viral Nebula** is a third-person survival sci-fi game created in Unity. You play as a biomedical engineer sent aboard a space research vessel to contain a virus outbreak, repair the central control system, and avoid deadly biomechanical threats.
+Play in itch.io [here](https://inhaya.itch.io/viral-nebula)
 
 ---
 
