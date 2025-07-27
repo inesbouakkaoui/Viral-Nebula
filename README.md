@@ -90,7 +90,7 @@ You must:
 ## 📁 Project Files
 
 You can download the full Unity project [here]().  
-*(Includes all C# scripts, scenes, prefabs, and UI assets. No 3D models or audio files are redistributed.)*
+*(Includes all C# scripts, scenes, prefabs, and UI assets. 3D and audio assets have been taken from royalty-free asset banks for non-commercial use.)*
 
 ---
 
